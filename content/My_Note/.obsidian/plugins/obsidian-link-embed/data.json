@@ -1,0 +1,22 @@
+{
+  "popup": true,
+  "rmDismiss": false,
+  "autoEmbedWhenEmpty": true,
+  "primary": "microlink",
+  "backup": "iframely",
+  "inPlace": false,
+  "debug": false,
+  "delay": 0,
+  "linkpreviewApiKey": "",
+  "jsonlinkApiKey": "",
+  "metadataTemplate": "createdby: \"linkembed\"\nparser: \"{{parser}}\"\ndate: \"{{date}}\"\ncustom_date: \"{{#formatDate}}YYYY-MM-DD HH:mm:ss{{/formatDate}}\"",
+  "useMetadataTemplate": false,
+  "saveImagesToVault": false,
+  "imageFolderPath": "link-embed-images",
+  "respectImageAspectRatio": true,
+  "useCache": true,
+  "enableFavicon": false,
+  "maxConcurrentLocalParsers": 1,
+  "defaultImageWidth": 160,
+  "maxImageWidth": 320
+}

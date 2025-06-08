@@ -1,0 +1,272 @@
+{
+  "workspaces": {
+    "我的布局": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "cdb7654a4e27ed34",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b8d8c8bb36edeca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Template/游戏开发日志.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "游戏开发日志"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "67b1f943b9a1af42",
+        "type": "split",
+        "children": [
+          {
+            "id": "a4a6a3dd22b3850a",
+            "type": "tabs",
+            "dimension": 27.539503386004515,
+            "children": [
+              {
+                "id": "48c018fb4cc09e8a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "b71669889737d6a9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "2c3d9c916f132413",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7f7cea0386ec1033",
+            "type": "tabs",
+            "dimension": 72.46049661399549,
+            "children": [
+              {
+                "id": "23be5bc8eafdc9ad",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://chat.deepseek.com/a/chat/s/73b1e0f7-1f7e-4a70-9ab3-3fe28634de6b",
+                    "title": "DeepSeek - 探索未至之境",
+                    "mode": "webview"
+                  },
+                  "pinned": true,
+                  "icon": "globe-2",
+                  "title": "DeepSeek - 探索未至之境"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 299.5
+      },
+      "right": {
+        "id": "e631411a88c7157f",
+        "type": "split",
+        "children": [
+          {
+            "id": "8455f05e178567bb",
+            "type": "tabs",
+            "dimension": 50.55555555555556,
+            "children": [
+              {
+                "id": "3190902d5b7e6a7f",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "e706dfd3d3f8c02c",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1e462adefb9b9b92",
+            "type": "tabs",
+            "dimension": 49.44444444444444,
+            "children": [
+              {
+                "id": "7c4d4abfc51a0988",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Template/游戏开发日志.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "游戏开发日志 的大纲"
+                }
+              },
+              {
+                "id": "dc677a31bf725425",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "ef09f60ed5e8c23a",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "1eaa92209c2fa786",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "我的游戏/1.核心玩法设计.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "1.核心玩法设计 的反向链接列表"
+                }
+              },
+              {
+                "id": "7751cdb71f9a844f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "我的游戏/1.核心玩法设计.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "1.核心玩法设计 的出链列表"
+                }
+              },
+              {
+                "id": "016da8ca25d9e347",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "关系图谱"
+                }
+              },
+              {
+                "id": "5ff579c6e86fd405",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "publish:发布更改": true,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-kanban:创建新看板": false,
+          "obsidian-git:Open Git source control": true,
+          "homepage:Open homepage": false,
+          "sheet-plus:创建 Excel 文件": false
+        }
+      },
+      "active": "0b8d8c8bb36edeca",
+      "mtime": "2025-06-08T22:41:31+08:00"
+    }
+  },
+  "active": "我的布局"
+}

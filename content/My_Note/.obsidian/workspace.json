@@ -1,0 +1,364 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb55143d315217b",
+        "type": "tabs",
+        "dimension": 52.281226626776366,
+        "children": [
+          {
+            "id": "87dd33c08de6f23a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠个人主页.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "🏠个人主页"
+            }
+          },
+          {
+            "id": "0008cc54261f1c5c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/jackyzha0/quartz",
+                "title": "github.com/jackyzha0/quartz",
+                "mode": "error"
+              },
+              "icon": "globe-2",
+              "title": "github.com/jackyzha0/quartz"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6651f88b7755b618",
+        "type": "tabs",
+        "dimension": 47.718773373223634,
+        "children": [
+          {
+            "id": "dc638a2f1fb5022c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠个人主页.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "🏠个人主页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67b1f943b9a1af42",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4a6a3dd22b3850a",
+        "type": "tabs",
+        "dimension": 42.55079006772009,
+        "children": [
+          {
+            "id": "48c018fb4cc09e8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b71669889737d6a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2c3d9c916f132413",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7f7cea0386ec1033",
+        "type": "tabs",
+        "dimension": 57.44920993227991,
+        "children": [
+          {
+            "id": "23be5bc8eafdc9ad",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chat.deepseek.com/a/chat/s/e099401f-a4ae-44b6-9856-62e4bec12358",
+                "title": "DeepSeek - 探索未至之境",
+                "mode": "webview"
+              },
+              "pinned": true,
+              "icon": "globe-2",
+              "title": "DeepSeek - 探索未至之境"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "e631411a88c7157f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8455f05e178567bb",
+        "type": "tabs",
+        "dimension": 50.55555555555556,
+        "children": [
+          {
+            "id": "3190902d5b7e6a7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e706dfd3d3f8c02c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "96c71e70ce54c70c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "ae316793232c7cf4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "1e462adefb9b9b92",
+        "type": "tabs",
+        "dimension": 49.44444444444444,
+        "children": [
+          {
+            "id": "7c4d4abfc51a0988",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "dc677a31bf725425",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ef09f60ed5e8c23a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1eaa92209c2fa786",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "我的游戏/1.核心玩法设计.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1.核心玩法设计 的反向链接列表"
+            }
+          },
+          {
+            "id": "7751cdb71f9a844f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "我的游戏/1.核心玩法设计.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1.核心玩法设计 的出链列表"
+            }
+          },
+          {
+            "id": "016da8ca25d9e347",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "5ff579c6e86fd405",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": true,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-git:Open Git source control": true,
+      "homepage:Open homepage": false,
+      "sheet-plus:创建 Excel 文件": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "0008cc54261f1c5c",
+  "lastOpenFiles": [
+    "🏠个人主页.md",
+    "Attachments",
+    "学习笔记/Godot/222.md",
+    "学习笔记/Godot/111.md",
+    "Library.md",
+    "Projects.md",
+    "学习笔记/Godot",
+    "学习笔记",
+    "[[Projects]].md",
+    "Projects",
+    "3464343011@qq.com.md",
+    "Godot/《陷阵之志》复刻/Excel 2025-06-08 23.11.32.univer.md",
+    "Projects/Godot/《陷阵之志》复刻/2025-06-08-游戏开发日志.md",
+    "Template/游戏开发日志.md",
+    "Godot/《陷阵之志》复刻/2025-06-08.md",
+    "Godot/《陷阵之志》复刻/Untitled.md",
+    "Template",
+    "Projects/Godot/《陷阵之志》复刻",
+    "Projects/Godot",
+    "我的游戏/7.操作与界面设计.md",
+    "我的游戏/8.技术实现.md",
+    "我的游戏/9.音效与音乐.md",
+    "Drawing 2025-05-09 19.14.19.excalidraw.md",
+    "我的游戏/1.核心玩法设计.md",
+    "我的游戏/2.剧情设计.md",
+    "我的游戏/3.美术风格与资源.md",
+    "attachments/Pasted image 20250509185436.png",
+    "attachments",
+    "我的游戏/6.地图设计.md",
+    "我的游戏/5.关卡与进度.md",
+    "我的游戏/4.角色设计.md",
+    "我的游戏/Drawing 2025-05-09 18.31.21.excalidraw.md",
+    "发大水发放.md",
+    "DeepSeek.md",
+    "我的游戏"
+  ]
+}
